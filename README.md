@@ -1,4 +1,13 @@
 [![b-parasite firmware build](https://github.com/rbaron/b-parasite/actions/workflows/b-parasite.yml/badge.svg?branch=main)](https://github.com/rbaron/b-parasite/actions/workflows/b-parasite.yml)
+# Cculpepper's fork:
+Forked from rbaron/b-parasite, renamed for my own convenience.
+Changes I plan on making: 
+* Add a CO2 sensor
+* Power off 2 AAA batteries (Rechargeable!)
+* Use WIFI
+* Add a VOC sensor
+* Maybe PIR? No idea if that's practical. 
+
 
 # b-parasite
 <p align="center">
